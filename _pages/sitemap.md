@@ -15,13 +15,17 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
 {% endfor %}
 -->
-[<h2>Publications</h2>](publications.md)
+[Publications](publications.md)
+<br>
 <br>
 [Talks](talks.html)
 <br>
+<br>
 [Teaching](teaching.html)
 <br>
+<br>
 [Blog Posts](year-archive.html)
+<br>
 <br>
 [CV](cv.md)
 

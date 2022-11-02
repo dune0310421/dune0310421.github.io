@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Ruiqiao Qiu"
 title_separator          : "-"
 name                     : &name "Ruiqiao Qiu"
