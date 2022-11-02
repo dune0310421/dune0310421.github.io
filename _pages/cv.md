@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 
-* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023 (expected)
+* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023 (expected) <br>
+
 <!--
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -35,7 +36,8 @@ Work experience
 Skills
 ======
 
-* Programming: C/C++, Python, matlab
+* Programming: C/C++, Python, matlab <br>
+
 <!--* Skill 1
 * Skill 2
   * Sub-skill 2.1
