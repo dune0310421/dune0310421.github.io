@@ -16,10 +16,10 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 -->
 <h2>Publications</h2>
-<h2>[Talks](_pages/talks.html)</h2>
-<h2>[Teaching](_pages/teaching.html)</h2>
-<h2>[Blog Posts](_pages/year-archive.html)</h2>
-<h2>[CV](_pages/cv.md)</h2>
+<h2>[Talks](talks.html)</h2>
+<h2>[Teaching](teaching.html)</h2>
+<h2>[Blog Posts](year-archive.html)</h2>
+<h2>[CV](cv.md)</h2>
 
 <h2>Posts</h2>
 {% for post in site.posts %}
