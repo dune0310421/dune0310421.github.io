@@ -8,17 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student of [Beijing Institute of Technology](https://www.bit.edu.cn/), majoring in computer science and technology. I'm from Sichuan, China, a province famous for delicious food and place of interest.
+I'm a fourth-year undergraduate student of [Beijing Institute of Technology](https://www.bit.edu.cn/), majoring in computer science and technology. In the next year, I will be a PhD candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
-<h2>Research Interest</h2>
-Software Engineering, Data Analysis, ...
-<br>
-Recently I'm doing research on mechanism of good first issue.
+I'm from Sichuan, China, a province famous for delicious food and place of interest.
 
-<h2>Education</h2>
+## Research Interest
+
+* Software Engineering, Data Analysis, ...
+* Recently I'm doing research on mechanism of good first issue.
+
+## Education
+
 * B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023 (expected)
 
-<h2>Hobbies</h2>
-drawing pictures, listening to music, playing pipa (a kind of Chinese traditional musical instrument)
+## Honor and Awards
+
+* Outstanding Student Leader, Beijing Institute of Technology (2022)
+* Outstanding Student, Beijing Institute of Technology (2021)
+* Excellent League Leader, Beijing Institute of Technology (2021)
+* Samsung Scholarship, Beijing Institute of Technology  (2021)
+* Outstanding Student Leader, Beijing Institute of Technology (2020)
+
+## Hobbies
+
+* drawing pictures, listening to music, playing Pipa (a kind of Chinese traditional musical instrument)...
 
 <img src='/images/painting.png' width="75%" height="75%">
