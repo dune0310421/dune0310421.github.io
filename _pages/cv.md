@@ -83,10 +83,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 
 Service and leadership
 ======
 
-* Currently signed in to 43 different slack teams
--->
+* secretariat of Communist Youth League branch (2019- )
+* Volunteer for the 80th Anniversary Celebration of Beijing Institute of Technology (2020)
