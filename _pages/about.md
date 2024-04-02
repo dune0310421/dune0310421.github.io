@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student of [Beijing Institute of Technology](https://www.bit.edu.cn/), majoring in computer science and technology. In the next year, I will be a PhD candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
+I'm a PhD candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My advisor is professor [Minghui Zhou](https://minghuizhou.github.io/).
 
-I'm from Sichuan, China, a province famous for delicious food and place of interest.
 
 ## Research Interest
 
 * Software Engineering, Data Analysis, ...
-* Recently I'm doing research on mechanism of good first issue.
+* Recently I'm working on health evaluation of open source software project.
 
 ## Education
 
-* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023 (expected)
+* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023
 
 ## Honor and Awards
 
@@ -31,6 +30,4 @@ I'm from Sichuan, China, a province famous for delicious food and place of inter
 
 ## Hobbies
 
-* drawing pictures, listening to music, playing Pipa (a kind of Chinese traditional musical instrument)...
-
-<img src='/images/painting.png' width="75%" height="75%">
+* painting, listening to music, playing Pipa (a kind of Chinese traditional musical instrument)...

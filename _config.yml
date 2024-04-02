@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruiqiao Qiu"
 title_separator          : "-"
 name                     : &name "Ruiqiao Qiu"
-description              : &description "undergraduate student of computer science and technology, Beijing Institute of Technology"
+description              : &description "PhD candidate in Computer Software and Theory at School of Computer Science, Peking University."
 url                      : https://dune0310421.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dune0310421/dune0310421.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruiqiao Qiu"
   avatar           : "profile.jpg"
-  bio              : "undergraduate student of computer science and technology, Beijing Institute of Technology"
+  bio              : "PhD candidate in Computer Software and Theory at School of Computer Science, Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "qrq2001163@163.com"
+  email            : "qrq2001@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

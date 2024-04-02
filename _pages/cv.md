@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023 (expected) <br>
+* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023 <br>
 
 <!--
 * B.S. in GitHub, GitHub University, 2012
